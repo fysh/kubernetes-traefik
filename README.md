@@ -1,3 +1,5 @@
+##https://habr.com/ru/company/nixys/blog/427655/
+
 # DEPRECATED
 
 ## kubernetes-traefik
